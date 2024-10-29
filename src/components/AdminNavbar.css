@@ -1,0 +1,50 @@
+/* .admin-navbar-container {
+  background: url('https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pexels.com%2Fsearch%2Fluxury%2520hotel%2F&psig=AOvVaw2e0b6Xr-sCihT6JuYrUxxf&ust=1730024399022000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjslo7pq4kDFQAAAAAdAAAAABAE') center/cover;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.7);
+  padding: 1rem 2rem;
+  width: 100%;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.5);
+}
+
+.navbar-brand {
+  color: #f8e71c;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+.navbar-toggler {
+  border-color: #f8e71c;
+}
+
+.navbar-nav .nav-link {
+  color: #f8e71c;
+  margin-right: 1rem;
+  transition: color 0.3s, transform 0.3s;
+}
+
+.navbar-nav .nav-link:hover {
+  color: #fff;
+  transform: scale(1.1);
+}
+
+.nav-item .btn-success {
+  background-color: #f8e71c;
+  border: none;
+  color: #000;
+  font-weight: bold;
+  transition: background-color 0.3s, transform 0.3s;
+}
+
+.nav-item .btn-success:hover {
+  background-color: #ffbf00;
+  transform: scale(1.05);
+} */

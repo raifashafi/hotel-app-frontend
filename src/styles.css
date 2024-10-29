@@ -1,0 +1,60 @@
+/* Navbar.css */
+
+.navbar {
+    background: linear-gradient(135deg, #4b79a1, #283e51);
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 0.5rem 1rem;
+    position: sticky;
+    top: 0;
+    z-index: 1000;
+  }
+  
+  .navbar-brand {
+    display: flex;
+    align-items: center;
+    color: #fff;
+    font-size: 1.5rem;
+    font-weight: bold;
+    transition: transform 0.3s ease;
+  }
+  
+  .navbar-logo {
+    width: 40px;
+    margin-right: 10px;
+    transition: transform 0.3s;
+  }
+  
+  .navbar-brand:hover .navbar-logo {
+    transform: rotate(10deg);
+  }
+  
+  .nav-link {
+    color: #fff;
+    font-weight: 500;
+    padding: 0.5rem 1rem;
+    transition: color 0.3s, border-bottom 0.3s;
+  }
+  
+  .nav-link:hover {
+    color: #f8e71c;
+    border-bottom: 2px solid #f8e71c;
+  }
+  
+  .nav-item.active .nav-link {
+    color: #f8e71c;
+    border-bottom: 2px solid #f8e71c;
+  }
+  
+  .btn-success {
+    background-color: #f8e71c;
+    border-color: #f8e71c;
+    color: #283e51;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.3s;
+  }
+  
+  .btn-success:hover {
+    background-color: #ffbf00;
+    transform: scale(1.1);
+  }
+  
